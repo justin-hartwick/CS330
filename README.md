@@ -1,8 +1,5 @@
 # CS330
 
-## Project Files
-Due to GitHub file size limits, the final 3D Scene ZIP is attached under the **Releases** section of this repository.
-
 Reflection
 How do I approach designing software?
 
